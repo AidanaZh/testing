@@ -1,0 +1,52 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Review</title>
+
+    <meta name="medium" content="video" />
+    <meta property="og:type" content="article" />
+    <meta property="og:video" content="https://watch.cloudflarestream.com/b6c67fbcc2404dcfa5b10315486f3f26" />
+
+    <meta property="og:video:secure_url" content="https://watch.cloudflarestream.com/b6c67fbcc2404dcfa5b10315486f3f26" />
+
+    <meta property="og:video:type" content="video/mp4" />
+    <meta property="og:video:width" content="1200" />
+    <meta property="og:video:height" content="630" />
+
+    <meta property="og:url" content="http://aidana-test-page.epizy.com/" />
+    <meta property="og:site_name" content="Mustard" />
+    <meta property="og:title" content="title" />
+
+    <meta property="og:image" content="http://static01.nyt.com/images/2015/02/19/arts/international/19iht-btnumbers19A/19iht-btnumbers19A-facebookJumbo-v2.jpg" />
+
+    <meta property="og:description" content="description" />
+    <meta property="fb:app_id" content="304291463959195" />
+
+    <meta name="twitter:card" content="player">
+    <meta name="twitter:player" content="https://watch.cloudflarestream.com/b6c67fbcc2404dcfa5b10315486f3f26">
+
+    <meta name="twitter:player:width" content="1200">
+    <meta name="twitter:player:height" content="630">
+
+    <meta name="twitter:secureurl:player_url" content="https://watch.cloudflarestream.com/b6c67fbcc2404dcfa5b10315486f3f26">
+
+    <meta name="twitter:text:player_height" content="630">
+    <meta name="twitter:text:player_width" content="1200">
+    <meta name="twitter:site" content="@Mustard">
+    <meta name="twitter:url" content="http://aidana-test-page.epizy.com/">
+    <meta name="twitter:title" content="title">
+    <meta name="twitter:description" content="description">
+
+    <meta name="twitter:image" content="http://static01.nyt.com/images/2015/02/19/arts/international/19iht-btnumbers19A/19iht-btnumbers19A-facebookJumbo-v2.jpg">
+
+    <meta name="twitter:app:name:iphone" content="Mustard">
+
+
+</head>
+<body>
+    <h2>HTML test</h2>
+    <h3>TEST</h3>
+
+</body>
+</html>
